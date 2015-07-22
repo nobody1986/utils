@@ -2,6 +2,7 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="605" topLine="0" />
@@ -16,6 +17,8 @@
 		<Cursor>
 			<Cursor1 position="114" topLine="0" />
 =======
+=======
+>>>>>>> utils/master
 	<File name="ustring.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="393" topLine="2" />
@@ -24,6 +27,9 @@
 	<File name="ustring.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="191" topLine="2" />
+<<<<<<< HEAD
+>>>>>>> utils/master
+=======
 >>>>>>> utils/master
 		</Cursor>
 	</File>

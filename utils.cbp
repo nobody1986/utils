@@ -37,6 +37,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="ustring.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ustring.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -11,3 +11,22 @@ ustring* ustring_new(char *sstr){
     return str;
 }
 
+inline int str_cmp(char *s1,char *s2,int len){
+}
+
+uslice* ustring_split(ustring* str,char *s){
+if(str == NULL){
+return NULL;
+}
+int slen = 0;
+int sslen = 0;
+uslice* slice = (uslice *)malloc(sizeof(uslice));
+
+if(s == NULL){
+ustring* s = ustring_new(str->sval);
+slice->size = 1;
+(*slice)->p = s;
+return slice;
+}
+
+}
